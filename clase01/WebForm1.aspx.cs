@@ -13,7 +13,7 @@ namespace clase01
         {
             if (!IsPostBack)
             {
-                DropDownList1.Items.Add(new ListItem("Argentina", "arg"));
+                DropDownList1.Items.Add(new ListItem("Argentia", "arg"));
                 DropDownList1.Items.Add(new ListItem("Chile", "chl"));
             }
 
